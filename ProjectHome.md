@@ -1,0 +1,1 @@
+A GWT generator for generating REST calls from interfaces annotated with JAXRS annotations
